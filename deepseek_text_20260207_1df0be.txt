@@ -1,0 +1,5 @@
+fantasy-app/
+├── frontend/          (React Native Mobile App)
+├── backend/           (Node.js API Server)
+├── admin/             (Admin Dashboard)
+└── database/          (MongoDB Schema)
